@@ -1,2 +1,2 @@
 # Bin
-Temporary files needing further tests
+Temporary files requiring further tests
